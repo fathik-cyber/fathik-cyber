@@ -6,17 +6,24 @@
 
 ## 🧰 Tools & Skills
 - Nmap, Wireshark, Burp Suite, Metasploit
-- Linux
-- Ethical Hacking
-- Linux Privilege Escalation
-- Active Directory Attacks
+- Linux Privilege Escalation & Enumeration
+- Active Directory Attacks (Kerberoasting, AS-REP, BloodHound)
 - Python, HTML, JavaScript (Basic)
-- Hack The Box | NullClass Internship
+- CTF Platforms: Hack The Box, TryHackMe, NullClass Internship
 
 ## 🛠️ Projects & Write-ups
-- 🔎 HTB Reports: `Voleur`, `TheFrizz`, `Era`
-- ✍️ CTF Writeups: TryHackMe, NullClass CTFs
-- 📁 Scripts and Recon Tools
+- 🔍 **Hack The Box Machines**:
+  - `Voleur` (SMB, LDAP, Kerberos Enum)
+  - `TheFrizz` (Gibbon RCE, GPO Abuse)
+  - `Era` (In Progress)
+- ✍️ **CTF Writeups** – Coming Soon
+- 💻 **Firewall Basics Notes**, **CyberSec Scripts**, and more
+
+## 📜 Certificates
+- [x] ISRO Online Course (Space Applications)
+- [x] Cisco - Introduction to Cybersecurity
+- [x] Cybrary: Firewall Basics, PowerShell, AD Basics
+- [x] NullClass Internship (In Progress)
 
 ## 📫 Connect with Me
 - ✉️ fathikmohamed41@gmail.com
